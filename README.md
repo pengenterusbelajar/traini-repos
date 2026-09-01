@@ -1,2 +1,3 @@
 # traini-repos
-my repositori of training
+my repository of training
+this will be my space for learn of new things
