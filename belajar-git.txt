@@ -1,2 +1,3 @@
 Resolusi pertama di september ini harus bisa pakai github dan git di lokal desktop
 memahami bagaimana cara kerja git dan berexperiment dnegan git
+harus bisa juga segera di bulan september ini habis 1 course
