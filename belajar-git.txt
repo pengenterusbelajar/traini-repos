@@ -3,6 +3,7 @@ memahami bagaimana cara kerja git dan berexperiment dnegan git
 menyelesdaikan web dev dalam 1 bulan kedepan
 perbanyak menyediakan waktu untuk didepan layar
 harus selesai bab 6
+selesai bab 7
 
 bulan sepetember ini harus coba belajar tentang hal lain juga
 belajar frame work js
