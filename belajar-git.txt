@@ -13,3 +13,4 @@ coba etf
 cari tahu apa itu crypto
 coba belajar pengenalah xtb
 
+skerang kita coba commitkan si main ini apakah akan berubah network graph??
